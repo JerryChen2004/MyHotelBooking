@@ -4,6 +4,8 @@ My Hotel Room Booking Website (Acadamic Work)
 Developed with PHP, HTML/CSS and MySQL
 <hr/>
 <br/>
+Download the files First
+<br/>
 Make sure to have install XAMPP 
 <br/>
 1. Stop the MySQL in Services on the device and open XAMPP to start Apache and MySQL 
