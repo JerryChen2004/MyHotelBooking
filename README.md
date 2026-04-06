@@ -1,5 +1,5 @@
 # MyHotelBooking
-A Hotel Room Booking Website (Acadamic Work)
+My Hotel Room Booking Website (Acadamic Work)
 <br/>
 Developed with PHP, HTML/CSS and MySQL
 <hr/>
