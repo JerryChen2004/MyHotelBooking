@@ -16,6 +16,7 @@ Make sure to have install XAMPP
 3. Import the "myhotelbooking.sql" into phpMyAdmin to get the myhotelbooking database with the test data
 <br/>
 4. Click on explorer in XAMPP and insert the "myhotelbooking folder" into "htdocs folder" in the xampp
+<br/>
 Then, you are all set to use the website.
 <br/>
 <br/>
